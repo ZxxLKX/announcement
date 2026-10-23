@@ -1,7 +1,7 @@
 {
   "active": true,
-  "type": "update",
+  "type": "info",
   "title": "Pembaruan Tersedia",
   "message": "Versi baru aplikasi sudah rilis. Harap update untuk melanjutkan.",
-  "download_url": "https://play.google.com/store/apps/details?id=package.name.anda"
+  "download_url": ""
 }
