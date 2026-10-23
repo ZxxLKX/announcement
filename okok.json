@@ -1,7 +1,7 @@
 {
-  "active": false,
-  "type": "update",
-  "title": "Awokeee",
-  "message": "TESSSS",
+  "active": true,
+  "type": "info",
+  "title": "SELAMAT DATANGG",
+  "message": "DAN SELAMAT MENCOBA!",
   "download_url": "https://google.com"
 }
